@@ -9,9 +9,9 @@ using to Manage Files in OS (Linux)
 
 ##Featuers:
 
-*you can **delete** , **create** , **list** files or directories .
-*you can change permissions .
-*create shourtcuts .
+* you can **delete** , **create** , **list** files or directories .
+* you can change permissions .
+* create shourtcuts .
 
 
 -it very easy for use
